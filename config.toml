@@ -1,0 +1,33 @@
+baseURL = "http://marcelherd.com"
+languageCode = "en-us"
+DefaultContentLanguage = "en"
+theme = "yinyang"
+title = "Marcel Herd"
+
+[author]
+  name = "Marcel Herd"
+  homepage = "https://marcelherd.com/about"
+
+[params]
+  headTitle = "Marcel Herd"
+  mainSections = ["posts"]
+
+[[params.socialsLeft]]
+  name = "About Me"
+  link = "https://marcelherd.com/about"
+
+[[params.socialsLeft]]
+  name = "Résumé"
+  link = "https://marcelherd.com/resume"
+
+[[params.socialsRight]]
+  name = "Github"
+  link = "https://github.com/marcelherd"
+  
+[[params.socialsRight]]
+  name = "Twitter"
+  link = "https://twitter.com/marcelherd"
+
+[[params.socialsRight]]
+  name = "Email"
+  link = "mailto:me@marcelherd.com"
